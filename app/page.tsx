@@ -778,7 +778,7 @@ export default function Home() {
                   <div>
                     <label htmlFor="message" className="mb-1.5 block text-sm font-medium text-text">Message
                     </label>
-                    <textarea id="message" rows="5" required className="w-full rounded-xl border border-gray-200 bg-white/80 px-4 py-3 text-sm text-text outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20" placeholder="Enter your message">
+                    <textarea id="message" rows={5} required className="w-full rounded-xl border border-gray-200 bg-white/80 px-4 py-3 text-sm text-text outline-none transition-colors focus:border-primary focus:ring-2 focus:ring-primary/20" placeholder="Enter your message">
                     </textarea>
                   </div>
                 </div>
