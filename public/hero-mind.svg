@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Illustration of a head profile with connected nodes and a growing sprout">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef2ff"/><stop offset=".55" stop-color="#e0e7ff"/><stop offset="1" stop-color="#cffafe"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f46e5"/><stop offset="1" stop-color="#06b6d4"/></linearGradient></defs>
+<rect width="800" height="1000" fill="url(#bg)"/>
+<g fill="none" stroke="#4f46e5" stroke-opacity=".14" stroke-width="2"><circle cx="400" cy="470" r="330"/><circle cx="400" cy="470" r="270"/><circle cx="400" cy="470" r="210"/></g>
+<path d="M270 760c-10-52-6-88-30-132-18-32-42-52-42-104 0-110 84-196 196-196s190 78 190 180c0 46-18 72-38 98-14 18-16 34-16 54v100z" fill="#fff" fill-opacity=".75" stroke="url(#g)" stroke-width="7" stroke-linejoin="round"/>
+<path d="M198 520l-34 22 30 18" fill="none" stroke="url(#g)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<g stroke="#4f46e5" stroke-opacity=".55" stroke-width="3" fill="none"><path d="M310 360L400 316L492 352L540 420L466 470L376 440Z"/><path d="M400 316L466 470M310 360L376 440M492 352L376 440"/></g>
+<g fill="url(#g)"><circle cx="310" cy="360" r="11"/><circle cx="400" cy="316" r="11"/><circle cx="492" cy="352" r="11"/><circle cx="540" cy="420" r="11"/><circle cx="466" cy="470" r="11"/><circle cx="376" cy="440" r="11"/></g>
+<path d="M420 760V610" stroke="#14b8a6" stroke-width="8" stroke-linecap="round"/>
+<path d="M420 660c-64 2-96-30-100-76 60-4 96 20 100 76z" fill="#14b8a6" fill-opacity=".35" stroke="#14b8a6" stroke-width="5"/>
+<path d="M420 620c56 0 88-30 92-72-56-4-88 22-92 72z" fill="#06b6d4" fill-opacity=".35" stroke="#06b6d4" stroke-width="5"/>
+<rect x="160" y="800" width="480" height="10" rx="5" fill="url(#g)" fill-opacity=".35"/>
+</svg>
